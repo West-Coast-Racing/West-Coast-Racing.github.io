@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwcr_standings_tracker=self.webpackChunkwcr_standings_tracker||[]).push([[245],{2783:function(e,n,r){r.r(n),r.d(n,{default:function(){return u}});var t=r(6540),c=r(773);function u(){return t.createElement(c.P,null,"WIP: Show Schedule")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-5704e28b5b79484111d2.js.map
